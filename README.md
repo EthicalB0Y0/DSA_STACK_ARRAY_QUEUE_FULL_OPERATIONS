@@ -13,7 +13,7 @@ The `array1` class provides functionalities such as sorting, displaying, finding
 3. Compile and run the program using the provided commands.
 
 ```
-g++ array_operations.cpp -o ArrayOperations
+g++ array.dsa.cpp -o ArrayOperations
 ./ArrayOperations
 ```
 ## Queue Implementation
@@ -26,7 +26,7 @@ Instantiate the queue class.
 Utilize the menu interface for queue operations.
 Compile and run the program using the provided commands.
 ```
-g++ queue_implementation.cpp -o QueueImplementation
+g++ queue.mod.cpp -o QueueImplementation
 ./QueueImplementation
 ```
 ## Stack Operations
@@ -39,7 +39,7 @@ Instantiate the stack1 class.
 Navigate the menu-driven interface for stack operations.
 Compile and run the program using the provided command
 ```
-g++ stack_operations.cpp -o StackOperations
+g++ stack.mod.cpp -o StackOperations
 ./StackOperations
 ```
 ### Folder Structure:
